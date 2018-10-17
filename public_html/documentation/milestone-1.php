@@ -23,15 +23,15 @@
 			<h2>Persona</h2>
 			<img src="">
 			<ul>
-				<li><strong>Name:</strong> </li>
-				<li><strong>Age:</strong> </li>
-				<li><strong>Gender:</strong> </li>
-				<li><strong>Ethnicity:</strong> </li>
-				<li><strong>Occupation:</strong> </li>
-				<li><strong>Technology:</strong> </li>
+				<li><strong>Name:</strong> Jody Wheeler</li>
+				<li><strong>Age:</strong> 31</li>
+				<li><strong>Gender:</strong> Female</li>
+				<li><strong>Ethnicity:</strong> White</li>
+				<li><strong>Occupation:</strong> Brew Pub Owner</li>
+				<li><strong>Technology:</strong></li>
 				<li><strong>Needs, Goals, and Features:</strong></li>
 				<ul>
-					<li></li>
+					<li>Jody needs a dynamic website to show case her new brew pub opening in a couple of months.</li>
 					<li></li>
 					<li></li>
 				</ul>
