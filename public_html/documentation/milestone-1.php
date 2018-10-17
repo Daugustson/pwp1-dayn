@@ -28,7 +28,7 @@
 				<li><strong>Gender:</strong> Female</li>
 				<li><strong>Ethnicity:</strong> White</li>
 				<li><strong>Occupation:</strong> Brew Pub Owner</li>
-				<li><strong>Technology:</strong></li>
+				<li><strong>Technology:</strong>She has  a strong grasp of evey day technologies</li>
 				<li><strong>Needs, Goals, and Features:</strong></li>
 				<ul>
 					<li>Jody needs a dynamic website to show case her new brew pub opening in a couple of months.</li>
