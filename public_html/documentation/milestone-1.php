@@ -15,14 +15,15 @@
 
 
 			<h2>Persona</h2>
-			<img SRC="jodymurphy.jpg" height="300" width="400" alt="Jody Murphy">
+
+			<img src="jodymurphy.jpg" alt="Jody Murphy">
 			<ul>
-				<li><strong>Name:</strong> Jody Wheeler</li>
+				<li><strong>Name:</strong> Jody Murphy</li>
 				<li><strong>Age:</strong> 31</li>
 				<li><strong>Gender:</strong> Female</li>
 				<li><strong>Ethnicity:</strong> White</li>
 				<li><strong>Occupation:</strong> Brew Pub Owner</li>
-				<li><strong>Technology:</strong>She has a strong grasp of evey day technologies.</li>
+				<li><strong>Technology:</strong> She has a strong grasp of every day technologies.</li>
 			</ul>
 
 			<h3>Needs, Goals, Features and Frustrations</h3>
