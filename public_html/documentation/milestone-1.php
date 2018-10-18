@@ -15,7 +15,7 @@
 
 
 			<h2>Persona</h2>
-			<img src="">
+			<img SRC="jodymurphy.jpg" height="300" width="400" alt="Jody Murphy">
 			<ul>
 				<li><strong>Name:</strong> Jody Wheeler</li>
 				<li><strong>Age:</strong> 31</li>
