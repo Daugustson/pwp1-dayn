@@ -1,11 +1,11 @@
-<DOCTYPE html>
-	<html lang="en">
-		<head>
-			<meta charset="UTF-8">
-			<title>Milestone 2 for PWP </title>
-		</head>
-		<body>
-			<h1>Milestone 2</h1>
+
+		<body><DOCTYPE html>
+				<html lang="en">
+					<head>
+						<meta charset="UTF-8">
+						<title>Milestone 2 for PWP </title>
+					</head>
+			<h1>Milestone 2b</h1>
 
 			<h2>Welcome</h2>
 			<p></p>
