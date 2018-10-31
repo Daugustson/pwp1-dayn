@@ -6,3 +6,15 @@
 		</head>
 		<body>
 			<h1>Milestone 2</h1>
+
+			<h2>Welcome</h2>
+			<p></p>
+
+			<h2>About Me</h2>
+			<p></p>
+
+			<h2>Portfolio</h2>
+			<p></p>
+
+			<h2>Contact</h2>
+			<p></p>

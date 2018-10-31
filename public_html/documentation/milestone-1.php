@@ -27,19 +27,10 @@
 			</ul>
 
 			<h3>Needs, Goals, Features and Frustrations</h3>
-				<p>Jody needs a dynamic website to showcase her new brew pub opening in a couple of months.
-					She has always loved Ireland and want to bring a little piece of that to Durango Colorado.
-					Everything from Ireland style beer, food, culture, and decor has been meticulously vetted by her.
-					She really needs a website that exhibits her passion for Ireland culture.
-					She has a hard and fast deadline but wants the website to keep people up to date with what beer is on tap,
-					menu items, specials, music, game nights, and wants an interactive loyalty club.
-					Her biggest frustration is the inability to find someone as meticulous and passionate as she is.
-					Jody admits she is a hard taskmaster, but that is only because she wants the best. </p>
+				<p>Jody needs a dynamic website to showcase her new brew pub opening in a couple of months. She has always loved Ireland and want to bring a little piece of that to Durango Colorado. Everything from Ireland style beer, food, culture, and decor has been meticulously vetted by her. She really needs a website that exhibits her passion for Ireland culture. She has a hard and fast deadline but wants the website to keep people up to date with what beer is on tap, menu items, specials, music, game nights, and wants an interactive loyalty club. Her biggest frustration is the inability to find someone as meticulous and passionate as she is. Jody admits she is a hard taskmaster, but that is only because she wants the best. </p>
 
 			<h3>User Story</h3>
-			   <P>Jody wants and needs a website that is not only aesthetically pleasing, but also flexible enough to allow her
-				to make weekly/daily changes to items (beers on tap, food specials, etc..) on her website without calling the
-				website developer.</P>
+			   <P>Jody wants and needs a website that is not only aesthetically pleasing, but also flexible enough to allow her to make weekly/daily changes to items (beers on tap, food specials, etc..) on her website without calling the website developer.</P>
 			<br/>
 			<br/>
 
