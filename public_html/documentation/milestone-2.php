@@ -2,7 +2,7 @@
 	<html lang="en">
 		<head>
 			<meta charset="UTF-8">
-			<title>Milestone 2 for PWP </title>
+			<title>Milestone 2  </title>
 		</head>
 		<body>
 			<h1>Milestone 2b</h1>
@@ -18,4 +18,7 @@
 
 			<h2>Contact</h2>
 			<p></p>
+
+			<h2>Moble Site</h2>
+			<img src="Moble.png" alt="Moble Site">
 		</body>
