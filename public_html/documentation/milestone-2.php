@@ -5,7 +5,7 @@
 			<title>Milestone 2  </title>
 		</head>
 		<body>
-			<h1>Milestone 2b</h1>
+			<h1>Milestone 2a</h1>
 
 			<h2>Welcome</h2>
 			<p>This is where I will introduce myself along with my professional tittle.  This will all be laid on back drop of the Sandia mountain at sunset. </p>
