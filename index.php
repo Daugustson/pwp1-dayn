@@ -9,7 +9,6 @@
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 
-		<!-- Custom CSS -->
 		<!-- custom CSS stylesheet -->
 		<link rel="stylesheet" href="css/style.css" type="text/css" />
 
@@ -19,7 +18,7 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
 
-		<title>Dayn Augustson"s Personal Website</title>
+		<title>Dayn Augustsons website</title>
 	</head>
 	<body>
 		<header>
@@ -48,7 +47,7 @@
 		</header>
 
 		<section>
-			<class = "container-fluid backgroundimg">
+			<div class = "container-fluid backsplashimg">
 			   <div class="row-fluid">
 					<div class="column">
 						<div class="container pt-3">
@@ -58,6 +57,7 @@
 
 					</div>
 				</div>
+			</div>
 		</section>
 
 

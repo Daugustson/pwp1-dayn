@@ -3,7 +3,7 @@ body, html {
 	padding: 0;
 }
 
- .backgroundimg {
+ .backsplashimg {
 	background:url("../images/Sandia1.jpg");
 	background-size: cover;
 	background-position: top right;
@@ -11,7 +11,7 @@ body, html {
 	height: 100vh;
 }
 @media only screen and (min-width: 768px) {
-	.backgroundimg {
+	.backsplashimg {
 		background-position: bottom center;
 	}
 }
