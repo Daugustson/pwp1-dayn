@@ -11,7 +11,7 @@
 
 		<!-- Custom CSS -->
 		<!-- custom CSS stylesheet -->
-		<link rel="stylesheet" href="../../css/style.css" type="text/css" />
+		<link rel="stylesheet" href="css/style.css" type="text/css" />
 
 		<!-- LINK YOUR CSS FILES DOWN HERE -->
 		<!-- jQuery first, then Popper.js, then Bootstrap JS -->

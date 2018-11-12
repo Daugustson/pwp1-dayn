@@ -3,7 +3,7 @@ body, html {
 	padding: 0;
 }
 
-.backgroundimg {
+ .backgroundimg {
 	background:url("../images/Sandia1.jpg");
 	background-size: cover;
 	background-position: top right;
