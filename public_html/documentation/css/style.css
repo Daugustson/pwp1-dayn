@@ -4,9 +4,14 @@ body, html {
 }
 
 .backgroundimg {
-	background-image:url("../images/sandi1.jpg");
+	background-image:url("../images/Sandia1.jpg");
 	background-size: cover;
 	background-position: top right;
 	background-repeat: no-repeat;
 	height: 100vh;
+}
+@media only screen and (min-width: 768px) {
+	.backgroundimg {
+		background-position: bottom center;
+	}
 }

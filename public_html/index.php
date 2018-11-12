@@ -8,9 +8,10 @@
 
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
 		<!-- Custom CSS -->
-		<!-- Custom CSS -->
-		<link rel="stylesheet" href="css/style.css" type="text/css">
+		<!-- custom CSS stylesheet -->
+		<link rel="stylesheet" href="documentation/css/style.css" type="text/css" />
 
 		<!-- LINK YOUR CSS FILES DOWN HERE -->
 		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
