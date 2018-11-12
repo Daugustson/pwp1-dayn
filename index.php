@@ -46,19 +46,7 @@
 		</nav>
 		</header>
 
-		<section>
-			<div class = "container-fluid backsplashimg">
-			   <div class="row-fluid">
-					<div class="column">
-						<div class="container pt-3">
-							<h1 class="display-3 text-center font-weight-bold">Dayn Augustson</h1>
-							<p class ="text-center">Fullstack Web Developer</p>
-						</div>
 
-					</div>
-				</div>
-			</div>
-		</section>
 
 
 
