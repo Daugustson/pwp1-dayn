@@ -23,7 +23,7 @@
 	<body>
 		<header>
 		<!-- This sets up my nav bar grabed this code from getbootstrap.com -->
-		<nav class="navbar navbar-expand-md navbar-light bg-light">
+		<nav class="navbar navbar-expand-md navbar-primary bg-light">
 			<a class="navbar-brand" href="#"></a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
@@ -45,6 +45,20 @@
 			</div>
 		</nav>
 		</header>
+
+		<section>
+			<div class = "container-fluid backsplashimg">
+				<div class="row-fluid">
+					<div class="column">
+						<div class="container pt-3">
+							<h1 class="display-3 text-center font-weight-bold">Dayn Augustson</h1>
+							<p class ="text-center">Fullstack Web Developer</p>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
 
 
 
