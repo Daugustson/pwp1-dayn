@@ -8,6 +8,9 @@
 
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+		<!-- Custom CSS -->
+		<!-- Custom CSS -->
+		<link rel="stylesheet" href="css/style.css" type="text/css">
 
 		<!-- LINK YOUR CSS FILES DOWN HERE -->
 		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -18,8 +21,9 @@
 		<title>Dayn Augustson"s Personal Website</title>
 	</head>
 	<body>
+		<header>
 		<!-- This sets up my nav bar grabed this code from getbootstrap.com -->
-		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<nav class="navbar navbar-expand-md navbar-light bg-light">
 			<a class="navbar-brand" href="#"></a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
@@ -40,6 +44,20 @@
 				</ul>
 			</div>
 		</nav>
+		</header>
+
+		<section>
+			<class = "container-fluid backgroundimg">
+			   <div class="row-fluid">
+					<div class="column">
+						<div class="container pt-3">
+							<h1 class="display-3 text-center font-weight-bold">Dayn Augustson</h1>
+							<p class ="text-center">Fullstack Web Developer</p>
+						</div>
+
+					</div>
+				</div>
+		</section>
 
 
 
