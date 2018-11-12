@@ -118,6 +118,11 @@
 				<section class="py-5 profile">
 					<div class="container-fluid">
 						<div class="row">
+							<div class="col">
+								<h2 class="text-left front-weight-bold">Profile</h2>
+
+
+							</div>
 
 						</div>
 					</div>
