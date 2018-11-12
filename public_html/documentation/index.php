@@ -10,7 +10,7 @@
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 
 		<!-- custom CSS stylesheet -->
-		<link rel="stylesheet" href="css/style.css" type="text/css" />
+		<link rel="stylesheet" href="../../css/style.css" type="text/css" />
 
 		<!-- LINK YOUR CSS FILES DOWN HERE -->
 		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -39,7 +39,6 @@
 						<a class="nav-link" href="#">Portfolio</a>
 					<li class="nav-item">
 						<a class="nav-link" href="#">Contact</a>
-
 					</li>
 				</ul>
 			</div>
@@ -50,15 +49,25 @@
 			<div class = "container-fluid backsplashimg">
 				<div class="row-fluid">
 					<div class="column">
-						<div class="container pt-3">
+						<div class="container">
 							<h1 class="display-3 text-center font-weight-bold">Dayn Augustson</h1>
-							<p class ="text-center">Fullstack Web Developer</p>
+							<p class ="text-center font-weight-bold">Fullstack Web Developer</p>
 						</div>
-
 					</div>
 				</div>
 			</div>
 		</section>
+
+		<sectin>
+			<div class="container">
+				<div  class="row">
+					<div class="col-sm-3">
+						<img class="img-fluid rounded-circle d-block mx-4" scr="dayn.jpg" alt="Dayn" ;
+					</div>
+				</div>
+			</div>
+
+		</sectin>
 
 
 
