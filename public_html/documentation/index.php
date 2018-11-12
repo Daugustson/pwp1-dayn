@@ -21,8 +21,9 @@
 		<title>Dayn Augustsons website</title>
 	</head>
 	<body>
-		<header>
+
 		<!-- This sets up my nav bar grabed this code from getbootstrap.com -->
+		<header>
 		<nav class="navbar navbar-expand-md navbar-primary bg-light">
 			<a class="navbar-brand" href="#"></a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -45,6 +46,7 @@
 		</nav>
 		</header>
 
+		<!--This is the Welcome to my page with a background picture -->
 		<section>
 			<div class = "container-fluid backsplashimg">
 				<div class="row-fluid">
@@ -54,20 +56,60 @@
 							<p class ="text-center font-weight-bold">Fullstack Web Developer</p>
 						</div>
 					</div>
+				</div>SS
+			</div>
+		</section>
+
+		<!-- This is the about me section -->
+		<section class="py-5 aboutme">
+			<div class="container">
+				<div  class="row">
+					<div class="col-sm-3">
+						<img class="img-fluid rounded-circle width " src="dayn.jpg" alt="responsive image">
+					</div>
+					<div class="col-sm-9">
+						<h2 class="text-center front-weight-bold">About me</h2>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur dolores eveniet excepturi, facilis ipsum itaque quae repellat! Aliquid consequatur, deleniti ducimus est, facilis magnam minus nihil quia quidem, rerum similique? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur dolores eveniet excepturi, facilis ipsum itaque quae repellat! Aliquid consequatur, deleniti ducimus est, facilis magnam minus nihil quia quidem, rerum similique?</p>
+					</div>
 				</div>
 			</div>
 		</section>
 
-		<sectin>
-			<div class="container">
-				<div  class="row">
-					<div class="col-sm-3">
-						<img class="img-fluid rounded-circle d-block mx-4" scr="dayn.jpg" alt="Dayn" ;
+		<!-- This is the Testimonials-->
+		<section>
+			<section class="bg-warning py-5 testimonials">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col">
+							<h2 class="text-center front-weight-bold">Testimonials</h2>
+							<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+								<div class="carousel-inner">
+									<div class="carousel-item active">
+										<img class="d-block w-100" src=".../800x400?auto=yes&bg=777&fg=555&text=First slide" alt="First slide">
+									</div>
+									<div class="carousel-item">
+										<img class="d-block w-100" src=".../800x400?auto=yes&bg=666&fg=444&text=Second slide" alt="Second slide">
+									</div>
+									<div class="carousel-item">
+										<img class="d-block w-100" src=".../800x400?auto=yes&bg=555&fg=333&text=Third slide" alt="Third slide">
+									</div>
+								</div>
+								<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+									<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+									<span class="sr-only">Previous</span>
+								</a>
+								<a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+									<span class="carousel-control-next-icon" aria-hidden="true"></span>
+									<span class="sr-only">Next</span>
+								</a>
+							</div>
+						</div>
 					</div>
 				</div>
-			</div>
 
-		</sectin>
+
+
+		</section>
 
 
 
