@@ -61,7 +61,7 @@
 		</section>
 
 		<!-- This is the about me section -->
-		<section class="py-5 aboutme">
+		<section class="py-3 aboutme">
 			<div class="container">
 				<div  class="row">
 					<div class="col-sm-3">
@@ -76,7 +76,7 @@
 		</section>
 
 		<!-- This is the Testimonials-->
-			<section class="py-5 testimonials">
+			<section class="py-3 testimonials">
 				<div class="container-fluid">
 					<div class="row">
 						<div class="col">
@@ -115,12 +115,20 @@
 			</section>
 
 			<!--This is Profile section-->
-				<section class="py-5 profile">
+				<section class="py-3 profile">
 					<div class="container-fluid">
 						<div class="row">
-							<div class="col">
+							<div class="col-lag-3">
 								<h2 class="text-left front-weight-bold">Profile</h2>
+								<div class="py-3"></div>
 
+								<div class="col-lg-3">
+									<div class="card"></div>
+									<div class="card-header">
+										<h4 class="text-center front-weight-bold">Capsonte</h4>
+									</div>
+									<div class="card-body">
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 							</div>
 
