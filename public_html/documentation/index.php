@@ -115,25 +115,59 @@
 			</section>
 
 			<!--This is Profile section-->
-				<section class="py-3 profile">
+				<section class="py-3 aboutme">
+					<h2 class="text-left front-weight-bold">Profile</h2>
+
 					<div class="container-fluid">
 						<div class="row">
-							<div class="col-lag-3">
-								<h2 class="text-left front-weight-bold">Profile</h2>
-								<div class="py-3"></div>
-
-								<div class="col-lg-3">
-									<div class="card"></div>
-									<div class="card-header">
-										<h4 class="text-center front-weight-bold">Capsonte</h4>
-									</div>
-									<div class="card-body">
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-
+							<div class="col-lg-3">
+								<div class="card border-primary">
+								<div class="card "></div>
+								<div class="card-header">
+									<h5 class="text-center front-weight-bold">Capstone Project</h5>
+								</div>
+								<div class="card-body testimonials">
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto debitis, deleniti dolor earum exercitationem hic laborum minus molestias nostrum, nulla odit omnis perspiciatis quaerat quasi, rerum sit unde veritatis vitae!
+								</div>
+								</div>
 							</div>
 
+							<div class="col-lg-3">
+								<div class="card border-primary">
+									<div class="card-header">
+										<h5 class="text-center front-weight-bold">TBA</h5>
+									</div>
+									<div class="card-body testimonials">
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto debitis, deleniti dolor earum exercitationem hic laborum minus molestias nostrum, nulla odit omnis perspiciatis quaerat quasi, rerum sit unde veritatis vitae!
+									</div>
+								</div>
+							</div>
+
+							<div class="col-lg-3">
+								<div class="card border-primary">
+									<div class="card-header">
+										<h5 class="text-center front-weight-bold">TBA</h5>
+									</div>
+									<div class="card-body testimonials">
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto debitis, deleniti dolor earum exercitationem hic laborum minus molestias nostrum, nulla odit omnis perspiciatis quaerat quasi, rerum sit unde veritatis vitae!
+									</div>
+								</div>
+							</div>
+
+
+							<div class="col-lg-3">
+								<div class="card border-primary">
+									<div class="card-header">
+										<h5 class="text-center front-weight-bold">TBA</h5>
+									</div>
+									<div class="card-body testimonials">
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto debitis, deleniti dolor earum exercitationem hic laborum minus molestias nostrum, nulla odit omnis perspiciatis quaerat quasi, rerum sit unde veritatis vitae!
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
+
 				</section>
 
 
