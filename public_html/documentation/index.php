@@ -24,7 +24,7 @@
 
 		<!-- This sets up my nav bar grabed this code from getbootstrap.com -->
 		<header>
-		<nav class="navbar navbar-expand-md navbar-primary bg-light">
+		<nav class="navbar navbar-expand-md navbar-primary navcolor">
 			<a class="navbar-brand" href="#"></a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
@@ -167,13 +167,58 @@
 							</div>
 						</div>
 					</div>
-
 				</section>
 
+		<!--This is contact section-->
+
+		<form class="py-3 testimonials">
+			<div class="container-fluid">
+				<h2 class="text-center front-weight-bold">Contact Me</h2>
+
+				<div class="form-group row pl-3 pr-3">
+					<label for="name">Name</label>
+					<input type="text" class="form-control" name="name" id="name" placeholder="Name">
+				</div>
+
+				<div class="form-group row pl-3 pr-3">
+					<label for="email">Email</label>
+					<input type="email" class="form-control" name="email" id="email" placeholder="Email">
+				</div>
+
+				<div class="form-group row pl-3 pr-3">
+					<label for="subject">Subject</label>
+					<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject">
+				</div>
+
+				<div class="form-group row pl-3 pr-3">
+					<label for="message">Message</label>
+					<textarea class="form-control" id="message" name="message" placeholder="Type message here!"
+								 rows="5"></textarea>
+				</div>
+
+			<button type="submit" class="btn btn-primary">Submit</button>
 
 
+			</div>
 
 
+		</form>
+
+		<footer class="py-3 aboutme">
+			<div class="container-fluid">
+				<div class="row justify-content-md-center">
+					<div class="col-md-1">
+						<a href="https://github.com/Daugustson" target="_blank">Github</a>
+					</div>
+					<div class="col-md-1">
+						<a href="https://www.linkedin.com/in/dayn-augustson-389154142/" target="_blank">Linkin</a>
+					</div>
+					<div class="col-md-1">
+						<a href="" target="_blank">Resume</a>
+					</div>
+				</div>
+			</div>
+		</footer>
 
 
 

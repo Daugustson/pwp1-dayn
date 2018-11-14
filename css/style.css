@@ -3,6 +3,10 @@ body, html {
 	padding: 0;
 }
 
+.navcolor {
+	background-color: #78da17;
+}
+
  .backsplashimg {
 	background:url("../images/sandia2.jpg");
 	background-size: cover;
