@@ -126,7 +126,7 @@
 								<div class="card-header">
 									<h5 class="text-center front-weight-bold">Capstone Project</h5>
 								</div>
-								<div class="card-body testimonials">
+								<div class="card-body color2">
 									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto debitis, deleniti dolor earum exercitationem hic laborum minus molestias nostrum, nulla odit omnis perspiciatis quaerat quasi, rerum sit unde veritatis vitae!
 								</div>
 								</div>
@@ -219,13 +219,6 @@
 				</div>
 			</div>
 		</footer>
-
-
-
-
-
-
-
 
 
 	</body>
