@@ -24,7 +24,7 @@
 
 		<!-- This sets up my nav bar grabed this code from getbootstrap.com -->
 		<header>
-		<nav class="navbar navbar-expand-md navbar-primary navcolor">
+		<nav class="navbar navbar-expand-md navbar-primary color4">
 			<a class="navbar-brand" href="#"></a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
@@ -56,12 +56,12 @@
 							<p class ="text-center font-weight-bold">Fullstack Web Developer</p>
 						</div>
 					</div>
-				</div>SS
+				</div>
 			</div>
 		</section>
 
 		<!-- This is the about me section -->
-		<section class="py-3 aboutme">
+		<section class="py-3 color1">
 			<div class="container">
 				<div  class="row">
 					<div class="col-sm-3">
@@ -76,7 +76,7 @@
 		</section>
 
 		<!-- This is the Testimonials-->
-			<section class="py-3 testimonials">
+			<section class="py-3 color2">
 				<div class="container-fluid">
 					<div class="row">
 						<div class="col">
@@ -115,7 +115,7 @@
 			</section>
 
 			<!--This is Profile section-->
-				<section class="py-3 aboutme">
+				<section class="py-3 color1">
 					<h2 class="text-left front-weight-bold">Profile</h2>
 
 					<div class="container-fluid">
@@ -137,7 +137,7 @@
 									<div class="card-header">
 										<h5 class="text-center front-weight-bold">TBA</h5>
 									</div>
-									<div class="card-body testimonials">
+									<div class="card-body color2">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto debitis, deleniti dolor earum exercitationem hic laborum minus molestias nostrum, nulla odit omnis perspiciatis quaerat quasi, rerum sit unde veritatis vitae!
 									</div>
 								</div>
@@ -148,7 +148,7 @@
 									<div class="card-header">
 										<h5 class="text-center front-weight-bold">TBA</h5>
 									</div>
-									<div class="card-body testimonials">
+									<div class="card-body color2">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto debitis, deleniti dolor earum exercitationem hic laborum minus molestias nostrum, nulla odit omnis perspiciatis quaerat quasi, rerum sit unde veritatis vitae!
 									</div>
 								</div>
@@ -160,7 +160,7 @@
 									<div class="card-header">
 										<h5 class="text-center front-weight-bold">TBA</h5>
 									</div>
-									<div class="card-body testimonials">
+									<div class="card-body color2">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto debitis, deleniti dolor earum exercitationem hic laborum minus molestias nostrum, nulla odit omnis perspiciatis quaerat quasi, rerum sit unde veritatis vitae!
 									</div>
 								</div>
@@ -171,7 +171,7 @@
 
 		<!--This is contact section-->
 
-		<form class="py-3 testimonials">
+		<form class="py-3 color2">
 			<div class="container-fluid">
 				<h2 class="text-center front-weight-bold">Contact Me</h2>
 
@@ -204,7 +204,7 @@
 
 		</form>
 
-		<footer class="py-3 aboutme">
+		<footer class="py-3 color1">
 			<div class="container-fluid">
 				<div class="row justify-content-md-center">
 					<div class="col-md-1">
