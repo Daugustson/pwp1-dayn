@@ -73,7 +73,9 @@
 					</div>
 				</div>
 			</div>
+
 		</section>
+
 
 		<!-- This is the Testimonials-->
 		<!--<section class="py-3 color2">
@@ -170,9 +172,11 @@
 				</section>
 
 		<!--This is contact section-->
-
-		<form class="py-3 color2">
-			<div class="container-fluid">
+<section>
+	<div class="container-fluid color1" id="contact-section" >
+		<div class="container color2">
+			<div class="row ml-1">
+				<div class="column pt-5 mb-5 pb-5 col-12">
 				<h2 class="text-center front-weight-bold">Contact Me</h2>
 
 				<div class="form-group row pl-3 pr-3">
@@ -198,12 +202,13 @@
 
 			<button type="submit" class="btn btn-primary">Submit</button>
 
-
-			</div>
-			<hr>
-
+					</div>
+				</div>
+		</div>
+	</div>
 
 		</form>
+</section>
 
 		<footer class="py-3 color1">
 			<div class="container-fluid">
@@ -219,6 +224,7 @@
 					</div>
 				</div>
 			</div>
+
 		</footer>
 
 
