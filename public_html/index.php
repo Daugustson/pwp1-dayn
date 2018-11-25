@@ -64,8 +64,9 @@
 		<section class="py-3 color1">
 			<div class="container">
 				<div  class="row">
-					<div class="col-sm-3">
-						<img class="img-fluid rounded-circle width " src="documentation/dayn.jpg" alt="responsive image">
+					<div class="col-lg-3">
+						<img class="img-fluid rounded-circle width" src="documentation/dayn.jpg" alt="responsive image">
+
 					</div>
 					<div class="col-sm-9">
 						<h2 class="text-center front-weight-bold">About me</h2>
@@ -214,7 +215,7 @@
 			<div class="container-fluid">
 				<div class="row justify-content-md-center">
 					<div class="col-md-1">
-						<a href="https://github.com/Daugustson" target="_blank">Github</a>
+						<a href="https://github.com/Daugustson" target="_blank"></a>
 					</div>
 					<div class="col-md-1">
 						<a href="https://www.linkedin.com/in/dayn-augustson-389154142/" target="_blank">Linkin</a>
