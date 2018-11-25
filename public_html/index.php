@@ -61,14 +61,14 @@
 		</section>
 
 		<!-- This is the about me section -->
-		<section class="py-3 color1">
+		<section class="py-4 color1">
 			<div class="container">
 				<div  class="row">
-					<div class="col-lg-3">
-						<img class="img-fluid rounded-circle width" src="documentation/dayn.jpg" alt="responsive image">
+					<div class="col-sm-2">
+						<img class="img-fluid rounded-circle width" src="../images/DaynHeadShot1.jpg" alt="responsive image">
 
 					</div>
-					<div class="col-sm-9">
+					<div class="col-sm-10">
 						<h2 class="text-center front-weight-bold">About me</h2>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur dolores eveniet excepturi, facilis ipsum itaque quae repellat! Aliquid consequatur, deleniti ducimus est, facilis magnam minus nihil quia quidem, rerum similique? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur dolores eveniet excepturi, facilis ipsum itaque quae repellat! Aliquid consequatur, deleniti ducimus est, facilis magnam minus nihil quia quidem, rerum similique?</p>
 					</div>
