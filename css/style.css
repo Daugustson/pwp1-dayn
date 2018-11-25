@@ -15,6 +15,11 @@ body, html {
 	height: 80vh;
 }
 
+@media only screen and (min-width: 768px) {
+	.backsplashimg {
+		background-position: bottom center;
+	}
+}
 
 .color1 {
 	background-color: #aada28;
