@@ -155,7 +155,7 @@
 										<h5 class="text-center front-weight-bold">Coming Soon</h5>
 									</div>
 									<div class="card-body color2">
-										<img class="img-fluid" src="../images/Work_In_Progress.png.jpg" alt="responsive image">
+										<img class="img-fluid" src="../images/Work_In_Progress1.png" alt="responsive image">
 									</div>
 								</div>
 							</div>
