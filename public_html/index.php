@@ -75,7 +75,7 @@
 		</section>
 
 		<!-- This is the about me section -->
-		<section class="py-4 color1">
+		<section class="py-4 color4">
 			<div class="container">
 				<div  class="row">
 					<div class="col-sm-2">
@@ -132,7 +132,7 @@
 		</section>-->
 
 		<!--This is Profile section-->
-				<section class="py-3 color2">
+				<section class="py-3 color1">
 					<h2 class="text-left front-weight-bold">Profile</h2>
 
 					<div class="container-fluid">
@@ -155,7 +155,7 @@
 										<h5 class="text-center front-weight-bold">Coming Soon</h5>
 									</div>
 									<div class="card-body color2">
-										<img class="img-fluid" src="../images/Work_In_Progress1.png" alt="responsive image">
+										<img class="img-fluid " src="../images/Work_In_Progress2.png" alt="responsive image">
 									</div>
 								</div>
 							</div>
@@ -166,7 +166,7 @@
 										<h5 class="text-center front-weight-bold">Coming Soon</h5>
 									</div>
 									<div class="card-body color2">
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto debitis, deleniti dolor earum exercitationem hic laborum minus molestias nostrum, nulla odit omnis perspiciatis quaerat quasi, rerum sit unde veritatis vitae!
+										<img class="img-fluid " src="../images/Work_In_Progress2.png" alt="responsive image">
 									</div>
 								</div>
 							</div>
@@ -178,7 +178,7 @@
 										<h5 class="text-center front-weight-bold">Coming Soon</h5>
 									</div>
 									<div class="card-body color2">
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto debitis, deleniti dolor earum exercitationem hic laborum minus molestias nostrum, nulla odit omnis perspiciatis quaerat quasi, rerum sit unde veritatis vitae!
+										<img class="img-fluid " src="../images/Work_In_Progress2.png" alt="responsive image">
 									</div>
 								</div>
 							</div>
@@ -189,7 +189,7 @@
 		<!--This is contact section-->
 <section>
 	<div class="container-fluid color1" id="contact-section" >
-		<div class="container color2">
+		<div class="container color4">
 			<div class="row ml-1">
 				<div class="column pt-5 mb-5 pb-5 col-12">
 				<h2 class="text-center front-weight-bold">Contact Me</h2>
