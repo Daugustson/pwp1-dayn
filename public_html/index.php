@@ -215,7 +215,7 @@
 			<div class="container-fluid">
 				<div class="row justify-content-md-center">
 					<div class="col-md-1">
-						<a href="https://github.com/Daugustson" target="_blank"></a>
+						<a href="https://github.com/Daugustson" target="_blank">Github</a>
 					</div>
 					<div class="col-md-1">
 						<a href="https://www.linkedin.com/in/dayn-augustson-389154142/" target="_blank">Linkin</a>
