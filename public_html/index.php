@@ -152,10 +152,10 @@
 							<div class="col-lg-3">
 								<div class="card border-primary">
 									<div class="card-header">
-										<h5 class="text-center front-weight-bold">TBA</h5>
+										<h5 class="text-center front-weight-bold">Coming Soon</h5>
 									</div>
 									<div class="card-body color2">
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto debitis, deleniti dolor earum exercitationem hic laborum minus molestias nostrum, nulla odit omnis perspiciatis quaerat quasi, rerum sit unde veritatis vitae!
+										<img class="img-fluid" src="../images/Work_In_Progress.png.jpg" alt="responsive image">
 									</div>
 								</div>
 							</div>
@@ -163,7 +163,7 @@
 							<div class="col-lg-3">
 								<div class="card border-primary">
 									<div class="card-header">
-										<h5 class="text-center front-weight-bold">TBA</h5>
+										<h5 class="text-center front-weight-bold">Coming Soon</h5>
 									</div>
 									<div class="card-body color2">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto debitis, deleniti dolor earum exercitationem hic laborum minus molestias nostrum, nulla odit omnis perspiciatis quaerat quasi, rerum sit unde veritatis vitae!
@@ -175,7 +175,7 @@
 							<div class="col-lg-3">
 								<div class="card border-primary">
 									<div class="card-header">
-										<h5 class="text-center front-weight-bold">TBA</h5>
+										<h5 class="text-center front-weight-bold">Coming Soon</h5>
 									</div>
 									<div class="card-body color2">
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto debitis, deleniti dolor earum exercitationem hic laborum minus molestias nostrum, nulla odit omnis perspiciatis quaerat quasi, rerum sit unde veritatis vitae!
