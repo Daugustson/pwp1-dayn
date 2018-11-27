@@ -238,7 +238,7 @@
 						<a href="https://www.linkedin.com/in/dayn-augustson-389154142/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
 					</div>
 					<div class="col-md-1">
-						<a href="" target="_blank">Resume</a>
+						<a href="https://bootcamp-coders.cnm.edu/~daugustson/pwp1-dayn/images/Dayn%20Augustson%20Resume%2011-15-2018.pdf" target="_blank">Resume</a>
 					</div>
 				</div>
 			</div>
