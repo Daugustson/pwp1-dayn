@@ -9,6 +9,9 @@
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 
+		<!-- FontAwesome -->
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
 		<!-- custom CSS stylesheet -->
 		<link rel="stylesheet" href="../css/style.css" type="text/css" />
 
@@ -229,10 +232,10 @@
 			<div class="container-fluid">
 				<div class="row justify-content-md-center">
 					<div class="col-md-1">
-						<a href="https://github.com/Daugustson" target="_blank">Github</a>
+						<a href="https://github.com/Daugustson" target="_blank"><i class="fab fa-github fa-2x"></i></a>
 					</div>
 					<div class="col-md-1">
-						<a href="https://www.linkedin.com/in/dayn-augustson-389154142/" target="_blank">Linkin</a>
+						<a href="https://www.linkedin.com/in/dayn-augustson-389154142/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
 					</div>
 					<div class="col-md-1">
 						<a href="" target="_blank">Resume</a>
