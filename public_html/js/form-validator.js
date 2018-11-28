@@ -16,7 +16,7 @@ $(document).ready(function(){
 	 **/
 
 	/* begin validate function here */
-	$("#my-contact-form").validate({
+	$("#contact-form").validate({
 
 		// setup handling of form errors
 		debug: true,
@@ -42,7 +42,7 @@ $(document).ready(function(){
 
 		// error messages to display to the end user when rules above don't pass
 		messages: {
-			contactFormNamee: {
+			contactFormName: {
 				required: "Please enter your name."
 			},
 			contactFormEmail: {
