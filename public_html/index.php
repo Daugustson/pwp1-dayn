@@ -31,7 +31,6 @@
 
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
-		<script src='https://www.google.com/recaptcha/api.js?render=6LfUQn0UAAAAAM39ERrMNIwVLJTOReivc_BxXNz8'></script>
 
 
 
@@ -219,7 +218,7 @@
 								 rows="5"></textarea>
 				</div>
 
-						<div class="g-recaptcha" data-sitekey="6LfUQn0UAAAAAM39ERrMNIwVLJTOReivc_BxXNz8"></div>
+						<div class="g-recaptcha" data-sitekey="6LfttX0UAAAAAIDCeWE097oPmDTY9qGAVdbfKgoh"></div>
 
 			<button type="submit" class="btn btn-primary">Submit</button>
 
