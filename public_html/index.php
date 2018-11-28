@@ -31,7 +31,7 @@
 
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
-		<script src='https://www.google.com/recaptcha/api.js?render=6LfUQn0UAAAAAM39ERrMNIwVLJTOReivc_BxXNz8'></script>
+
 
 
 
@@ -150,6 +150,7 @@
 									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto debitis, deleniti dolor earum exercitationem hic laborum minus molestias nostrum, nulla odit omnis perspiciatis quaerat quasi, rerum sit unde veritatis vitae!
 								</div>
 								</div>
+
 							</div>
 
 							<div class="col-lg-3">
