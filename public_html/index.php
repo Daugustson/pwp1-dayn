@@ -196,7 +196,7 @@
 			<div class="row ml-1">
 				<div class="column pt-5 mb-5 pb-5 col-12">
 				<h2 class="text-center front-weight-bold">Contact Me</h2>
-
+					<form id="contact-form" action="php/mailer.php" method="post">
 				<div class="form-group row pl-3 pr-3">
 					<label for="name">Name</label>
 					<input type="text" class="form-control" name="name" id="name" placeholder="Name">
@@ -217,6 +217,8 @@
 					<textarea class="form-control" id="message" name="message" placeholder="Type message here!"
 								 rows="5"></textarea>
 				</div>
+
+						<div class="g-recaptcha" data-sitekey="6LfUQn0UAAAAAM39ERrMNIwVLJTOReivc_BxXNz8"></div>
 
 			<button type="submit" class="btn btn-primary">Submit</button>
 
