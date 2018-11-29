@@ -199,22 +199,22 @@
 					<form id="contact-form" action="php/mailer.php" method="post">
 				<div class="form-group row pl-3 pr-3">
 					<label for="name">Name</label>
-					<input type="text" class="form-control" name="name" id="name" placeholder="Name">
+					<input type="text" class="form-control" id="contactFormName" name="contactFormName" placeholder="Name">
 				</div>
 
 				<div class="form-group row pl-3 pr-3">
 					<label for="email">Email</label>
-					<input type="email" class="form-control" name="email" id="email" placeholder="Email">
+					<input type="email" class="form-control" id="contactFormEmail" name="contactFormEmail" placeholder="Email">
 				</div>
 
 				<div class="form-group row pl-3 pr-3">
 					<label for="subject">Subject</label>
-					<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject">
+					<input type="text" class="form-control" id="contactFormSubject" name="contactFormSubject" placeholder="Subject">
 				</div>
 
 				<div class="form-group row pl-3 pr-3">
 					<label for="message">Message</label>
-					<textarea class="form-control" id="message" name="message" placeholder="Type message here!"
+					<textarea class="form-control" id="contactFormMessage" name="contactFormMessage" placeholder="Type message here!"
 								 rows="5"></textarea>
 				</div>
 

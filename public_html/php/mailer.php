@@ -6,7 +6,7 @@
  * library with Google reCAPTCHA integration.
  *
  * @author Rochelle Lewis <rlewis37@cnm.edu>
- * @author Erin Scott <erinleeannscott@gmail.com>
+ * @author Dayn Augustson <day.m.augustson@gmail.com
  **/
 // require all composer dependencies
 require_once(dirname(__DIR__, 2) . "/vendor/autoload.php");
@@ -69,7 +69,7 @@ try {
 	 *
 	 * @see http://swiftmailer.org/docs/sending.html Sending Messages - Documentation - SwitftMailer
 	 **/
-	$smtp = new Swift_SmtpTransport("localhost", 25);
+	$smtp = new Swift_SmtpTransport("localhost", 3306);
 	$mailer = new Swift_Mailer($smtp);
 	$numSent = $mailer->send($swiftMessage, $failedRecipients);
 	/**
