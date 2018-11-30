@@ -214,20 +214,21 @@
 
 				<div class="form-group row pl-3 pr-3">
 					<label for="message">Message</label>
-					<textarea class="form-control" id="contactFormMessage" name="contactFormMessage" placeholder="Type message here!"
-								 rows="5"></textarea>
+					<textarea class="form-control" id="contactFormMessage" name="contactFormMessage" placeholder="Type message here!" rows="5"></textarea>
 				</div>
 
 						<div class="g-recaptcha" data-sitekey="6LfttX0UAAAAAIDCeWE097oPmDTY9qGAVdbfKgoh"></div>
 
 			<button type="submit" class="btn btn-primary">Submit</button>
-
+					</form>
+					<div id="output-area"></div>
 					</div>
 				</div>
 		</div>
 	</div>
 
-		</form>
+
+
 </section>
 
 		<footer class="py-3 color1">
