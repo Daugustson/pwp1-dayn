@@ -191,35 +191,45 @@
 
 		<!--This is contact section-->
 <section>
+	<form id="contact-form" action="php/mailer.php" method="post">
 	<div class="container-fluid color1" id="contact-section" >
 		<div class="container color4">
 			<div class="row ml-1">
 				<div class="column pt-5 mb-5 pb-5 col-12">
 				<h2 class="text-center front-weight-bold">Contact Me</h2>
-					<form id="contact-form" action="php/mailer.php" method="post">
+
 				<div class="form-group row pl-3 pr-3">
 					<label for="name">Name</label>
+					<div class="input-group">
 					<input type="text" class="form-control" id="contactFormName" name="contactFormName" placeholder="Name">
+				</div>
 				</div>
 
 				<div class="form-group row pl-3 pr-3">
 					<label for="email">Email</label>
+					<div class="input-group">
 					<input type="email" class="form-control" id="contactFormEmail" name="contactFormEmail" placeholder="Email">
+				</div>
 				</div>
 
 				<div class="form-group row pl-3 pr-3">
 					<label for="subject">Subject</label>
+					<div class="input-group">
 					<input type="text" class="form-control" id="contactFormSubject" name="contactFormSubject" placeholder="Subject">
+				</div>
 				</div>
 
 				<div class="form-group row pl-3 pr-3">
 					<label for="message">Message</label>
+					<div class="input-group">
 					<textarea class="form-control" id="contactFormMessage" name="contactFormMessage" placeholder="Type message here!" rows="5"></textarea>
+				</div>
 				</div>
 
 						<div class="g-recaptcha" data-sitekey="6LfttX0UAAAAAIDCeWE097oPmDTY9qGAVdbfKgoh"></div>
 
-			<button type="submit" class="btn btn-primary">Submit</button>
+						<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+						<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 					</form>
 					<div id="output-area"></div>
 					</div>

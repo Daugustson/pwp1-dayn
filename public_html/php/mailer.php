@@ -6,12 +6,14 @@
  * library with Google reCAPTCHA integration.
  *
  * @author Rochelle Lewis <rlewis37@cnm.edu>
+ * remix by
  * @author Dayn Augustson <day.m.augustson@gmail.com
  **/
 // require all composer dependencies
 require_once(dirname(__DIR__, 2) . "/vendor/autoload.php");
 // require mail-config.php
 require_once("mail-config.php");
+
 // verify user's reCAPTCHA input
 $recaptcha = new \ReCaptcha\ReCaptcha($secret);
 $resp = $recaptcha->verify($_POST["g-recaptcha-response"], $_SERVER["REMOTE_ADDR"]);
@@ -69,10 +71,13 @@ try {
 	 *
 	 * @see http://swiftmailer.org/docs/sending.html Sending Messages - Documentation - SwitftMailer
 	 **/
-	$smtp = new Swift_SmtpTransport("localhost", 25);
+	$smtp = (new Swift_SmtpTransport("smtp.sendgrid.net", 587,"tls"))
+	   ->setUsername($smtpUser)
+		->setPassword($smtpSecret);
 	$mailer = new Swift_Mailer($smtp);
 	$numSent = $mailer->send($swiftMessage, $failedRecipients);
 	/**
+	 *
 	 * The send method returns the number of recipients that accepted the Email.
 	 * If the number attempted !== number accepted it's an Exception.
 	 **/

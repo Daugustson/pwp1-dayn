@@ -12,6 +12,7 @@ $(document).ready(function(){
 	 *
 	 * Orginal author
 	 * @author Rochelle Lewis <rlewis37@cnm.edu>
+	 *    remix by
 	 * @author Dayn Augustson <day.m.augustson>
 	 **/
 
@@ -56,6 +57,7 @@ $(document).ready(function(){
 		},
 
 		// AJAX submit the form data to back end if rules pass
+
 		submitHandler: function(form) {
 			$("#contact-form").ajaxSubmit({
 				type: "POST",
